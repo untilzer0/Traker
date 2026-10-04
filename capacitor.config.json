@@ -1,0 +1,8 @@
+{
+  "appId": "com.mytracker.app",
+  "appName": "Мой трекер",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}
